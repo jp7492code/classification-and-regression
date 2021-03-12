@@ -120,7 +120,7 @@ airbnb['neighbourhood_group'].value_counts().sort_index().plot.barh()
 
 Image for post
 Image for post
-![image](https://user-images.githubusercontent.com/66491543/110878447-12f6d580-8290-11eb-9ae9-3afcbaafc877.png)
+![image](https://user-images.githubusercontent.com/66491543/110878508-2b66f000-8290-11eb-9a2a-4c42a50dbd15.png)
 
 Manhattan and Brooklyn are two places with the most Airbnb houses. The reason behind this is that most touristy destinations are in those two main places, while in the three other neighbourhood groups (Queens, Bronx, Staten Island) have more residential areas and fewer places to visit.
 
