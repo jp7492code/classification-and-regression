@@ -1,5 +1,4 @@
-# classification-and-regression
-Classification
+# Classification And Regression Projects
 
 Classification is the process of predicting the class with your input data. There are mostly two types of classification in Machine Learning Algorithms, one is supervised learning other is unsupervised learning. In briefly, if your dataset includes your target (label) features and you are going to predict these target, this means supervised learning. If your dataset doesn’t include target (label) feature, this means unsupervised learning.
 
