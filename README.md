@@ -118,10 +118,6 @@ First, I’ll plot the number of neighbourhood groups to see which has more AirB
 # Which neighborhood_group has the most AirBnB?
 airbnb['neighbourhood_group'].value_counts().sort_index().plot.barh()
 
-Image for post
-Image for post
-![image](https://user-images.githubusercontent.com/66491543/110878508-2b66f000-8290-11eb-9a2a-4c42a50dbd15.png)
-
 Manhattan and Brooklyn are two places with the most Airbnb houses. The reason behind this is that most touristy destinations are in those two main places, while in the three other neighbourhood groups (Queens, Bronx, Staten Island) have more residential areas and fewer places to visit.
 
 The next step is to get the correlation between different values in the table. The goal is to see which feature variables will be important in determining the price of New York Airbnb.
